@@ -12,6 +12,7 @@ namespace Fuck
         {
 
             Console.WriteLine("Привет");
+            Console.WriteLine("Пока");
         }
     }
 }
