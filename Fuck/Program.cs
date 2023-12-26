@@ -13,6 +13,7 @@ namespace Fuck
 
             Console.WriteLine("Привет");
             Console.WriteLine("Пока");
+            Console.WriteLine("Ухо мое, и точка");
         }
     }
 }
