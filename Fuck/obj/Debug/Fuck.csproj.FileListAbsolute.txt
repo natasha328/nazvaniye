@@ -1,0 +1,8 @@
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\bin\Debug\Fuck.exe.config
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\bin\Debug\Fuck.exe
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\bin\Debug\Fuck.pdb
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\obj\Debug\Fuck.csproj.AssemblyReference.cache
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\obj\Debug\Fuck.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\obj\Debug\Fuck.csproj.CoreCompileInputs.cache
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\obj\Debug\Fuck.exe
+C:\Users\Nata\OneDrive\Рабочий стол\ТИМП\Лаба\Fuck\Fuck\obj\Debug\Fuck.pdb
